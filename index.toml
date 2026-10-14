@@ -31,6 +31,10 @@ file = "config/terralith.json"
 hash = "cb8a5d8613fdcc2316654d573c1c06220b5db35802c8837f2dd4a11f1767bd4a"
 
 [[files]]
+file = "mods/aegir-tweaks-1.0.0.jar"
+hash = "10e356ff3031fa161a6659c647528f1a160d2a487ada2ffd685fa03674c6873a"
+
+[[files]]
 file = "mods/alexs-mobs-1.21.1.pw.toml"
 hash = "fb53bc6c0d543cd7e88a5faba1e3235dca6c556e0cf8c1a534bbdec581c3c2f8"
 metafile = true
@@ -556,11 +560,6 @@ hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "8eae737eb20a0488e9b57b6a59f0681d142732bcb22fc896ad4e5ff924ec5683"
-metafile = true
-
-[[files]]
 file = "mods/snow-real-magic.pw.toml"
 hash = "57db6fcf019d92ad20dd2e62cb60cd6fb7f5cb93ac9cae37dca217ea481d3e55"
 metafile = true
@@ -646,11 +645,6 @@ hash = "ad3c58ce67c1063c917a3764281ac4ca1b6055b0e065ffc1b21d95286ebf2633"
 metafile = true
 
 [[files]]
-file = "mods/warring-nations.pw.toml"
-hash = "d3d53a2317dcf2928d5b2f63aaf8f7638a4454a3a9799c050b3455d539629fe1"
-metafile = true
-
-[[files]]
 file = "mods/waystones-sable.pw.toml"
 hash = "c452c85bb210ec721793610924e61bd11d7c67b46815ac49106fd851dc1e877c"
 metafile = true
@@ -671,11 +665,6 @@ hash = "7e6948368276f2c49d5bccf52cbf80930d0daca75b4dfbc5530479f1d3f95cf8"
 metafile = true
 
 [[files]]
-file = "mods/wn-siege.pw.toml"
-hash = "f6d277e1fd8b1c530789656f55500e00b9d18c0131ce0a007c1ca1365e152797"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "e97cb865d7a8c8310905d9140899fa55ea23c3fff2e23a17255ce2c162322ad7"
 metafile = true
@@ -683,4 +672,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "3a8e91aecdb602039ba1f7445bbf6b64cc5a46344339a3ffaf3b2e3eb2f5bcbc"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
 metafile = true

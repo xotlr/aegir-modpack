@@ -1,0 +1,16 @@
+modLoader="lowcodefml"
+loaderVersion="[1,)"
+license="All Rights Reserved"
+
+[[mods]]
+    modId="aegir_tweaks"
+    version="1.0.0"
+    displayName="AEGIR Tweaks"
+    description="Pack-wide gameplay tweaks for AEGIR (datapack): base max health 10 (5 hearts)."
+
+[[dependencies.aegir_tweaks]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1,1.21.2)"
+    ordering="NONE"
+    side="BOTH"
