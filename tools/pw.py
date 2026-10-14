@@ -11,7 +11,7 @@ import hashlib, json, pathlib, re, sys, urllib.request
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SKIP_DIRS = {".git", "docs", "tools"}
-PRESERVE = {"config/DistantHorizons.toml"}
+PRESERVE = {"config/DistantHorizons.toml", "config/coldsweat/client.toml"}
 SKIP_FILES = {"pack.toml", "index.toml", ".gitattributes", ".gitignore", ".packwizignore", "README.md"}
 
 

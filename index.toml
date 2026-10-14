@@ -5,6 +5,11 @@ file = "aegir/import-vanilla-settings.ps1"
 hash = "a826e5aec0e518250887802ba0f37d0f69afc7460394c8b7981d9b11acf47f96"
 
 [[files]]
+file = "config/coldsweat/client.toml"
+hash = "ec647e2bec47c16213a015b7ea0bb1664073237ad895395b8a800fd257191ba2"
+preserve = true
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "333287dda5e04c98a62cde28b362d760f15cf9138797d1035808be3b076a6e51"
 preserve = true
