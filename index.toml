@@ -86,8 +86,8 @@ file = "config/terralith.json"
 hash = "cb8a5d8613fdcc2316654d573c1c06220b5db35802c8837f2dd4a11f1767bd4a"
 
 [[files]]
-file = "mods/aegir-tweaks-1.6.0.jar"
-hash = "7340e955515e1a6d815c43ebc797dcc35f3c6d8d72fc3511616feb104849b5f7"
+file = "mods/aegir-tweaks-1.6.1.jar"
+hash = "828a520cd3b257b83c051cda7a59cbba5e4aaa8c3a7df42b680cae143fb04d9c"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
