@@ -11,9 +11,9 @@ Files in PRESERVE are installed only when missing, never over a player's edits; 
 import hashlib, json, pathlib, re, sys, urllib.request
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-SKIP_DIRS = {".git", "docs", "tools", "core"}
+SKIP_DIRS = {".git", "docs", "tools", "core", "dist"}
 PRESERVE = {"config/DistantHorizons.toml", "config/coldsweat/client.toml", "config/iris.properties", "config/renourisheddelight/client.json5", "config/mca.json"}
-SKIP_FILES = {"pack.toml", "index.toml", ".gitattributes", ".gitignore", ".packwizignore", "README.md"}
+SKIP_FILES = {"pack.toml", "index.toml", ".gitattributes", ".gitignore", ".packwizignore", "README.md", "FRIENDS.md"}
 
 
 def sha256(p):

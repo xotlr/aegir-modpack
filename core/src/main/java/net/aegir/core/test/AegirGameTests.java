@@ -106,6 +106,33 @@ public final class AegirGameTests {
         h.succeed();
     }
 
+    @GameTest(template = T)
+    public static void vanillaSettingsImportOnce(GameTestHelper h) {
+        try {
+            java.nio.file.Path root = java.nio.file.Files.createTempDirectory("aegir-import");
+            java.nio.file.Path van = java.nio.file.Files.createDirectories(root.resolve("vanilla")), inst = java.nio.file.Files.createDirectories(root.resolve("instance"));
+            java.nio.file.Files.write(van.resolve("options.txt"), java.util.List.of("version:5023", "fov:1.0", "renderDistance:32",
+                    "simulationDistance:20", "key_key.jump:key.keyboard.space", "resourcePacks:[\"vanilla\",\"file/Faithful\"]"));
+            java.nio.file.Files.write(van.resolve("servers.dat"), new byte[]{1, 2, 3});
+            java.nio.file.Files.write(inst.resolve("options.txt"), java.util.List.of("version:3955", "fov:0.0",
+                    "resourcePacks:[\"vanilla\",\"mod_resources\",\"file/aegir-assets\"]", "key_key.aegir:key.keyboard.g"));
+            h.assertTrue(net.aegir.core.client.VanillaSettings.importOnce(van, inst), "first run should import");
+            var o = new java.util.HashMap<String, String>();
+            for (String l : java.nio.file.Files.readAllLines(inst.resolve("options.txt"))) { int i = l.indexOf(':'); o.put(l.substring(0, i), l.substring(i + 1)); }
+            h.assertTrue("3955".equals(o.get("version")), "pack data version must stay, got " + o.get("version"));
+            h.assertTrue("1.0".equals(o.get("fov")), "vanilla FOV should win");
+            h.assertTrue("12".equals(o.get("renderDistance")) && "8".equals(o.get("simulationDistance")), "view distances must be capped");
+            h.assertTrue(o.get("resourcePacks").contains("aegir-assets"), "pack resource packs must stay");
+            h.assertTrue("key.keyboard.space".equals(o.get("key_key.jump")) && "key.keyboard.g".equals(o.get("key_key.aegir")), "keybinds: vanilla + modded kept");
+            h.assertTrue("true".equals(o.get("darkMojangStudiosBackground")), "loading screen should be black");
+            h.assertTrue(java.nio.file.Files.exists(inst.resolve("servers.dat")), "server list should be copied");
+            h.assertFalse(net.aegir.core.client.VanillaSettings.importOnce(van, inst), "second run must do nothing");
+            h.succeed();
+        } catch (java.io.IOException e) {
+            h.fail("io: " + e);
+        }
+    }
+
     @EventBusSubscriber(modid = AegirCore.MOD_ID, bus = EventBusSubscriber.Bus.MOD)
     public static final class Register {
         @SubscribeEvent
