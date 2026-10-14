@@ -20,7 +20,7 @@ preserve = true
 
 [[files]]
 file = "config/dynamicwaters-common.toml"
-hash = "25964be2963c996850f13f1b09e733333521cddc8311f322aa6571270ff3518f"
+hash = "9f2827f5c85b2ba34058c5f3745372544acd0080f19ef6f58d8b8b8da0252cdd"
 
 [[files]]
 file = "config/historystages-common.toml"
@@ -31,8 +31,13 @@ file = "config/terralith.json"
 hash = "cb8a5d8613fdcc2316654d573c1c06220b5db35802c8837f2dd4a11f1767bd4a"
 
 [[files]]
-file = "mods/aegir-tweaks-1.0.0.jar"
-hash = "10e356ff3031fa161a6659c647528f1a160d2a487ada2ffd685fa03674c6873a"
+file = "mods/aegir-tweaks-1.1.0.jar"
+hash = "874497e5e598f27dc9d78b299a12ef7e899ffd691bd279d4178e308773fdd2cc"
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "713a9b7e8963adfefb8e48aecf0598fbd1cc27e14ca64256757ab4d9e25102a8"
+metafile = true
 
 [[files]]
 file = "mods/alexs-mobs-1.21.1.pw.toml"
@@ -91,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
@@ -102,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
@@ -262,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "426238488c9ffd843f661f8bc74aa8e585fa6b4d342c43c4ba4cb8451298b725"
 metafile = true
 
 [[files]]
@@ -515,6 +530,11 @@ hash = "021196d8a2b654a66243f6102e14273298f06bd9dae1591ee47395c273d211be"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "e229505042a240cab6573e498c7e713a6224341849efcf414a43b7e4131823bc"
+metafile = true
+
+[[files]]
 file = "mods/roasters-delight.pw.toml"
 hash = "05a734a71c99b0e56d0cbe796a2b4257188aaea7dd8a6e2371ed5e91036293e3"
 metafile = true
@@ -605,6 +625,11 @@ hash = "3c4da8a221086153d491104bba4fd8796dac92d5c3e0b2dc111a6c5d53b65484"
 metafile = true
 
 [[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "27fbafdc78a4a3cb8badb58078ec1f2837e65a5bbe5160e344b0fb3e779c9efe"
+metafile = true
+
+[[files]]
 file = "mods/strut-your-stuff.pw.toml"
 hash = "aa89e067824ca42d818a81a6d02ce5296ce662d834c35dd2ff0d81189d3bc3f9"
 metafile = true
@@ -672,6 +697,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "3a8e91aecdb602039ba1f7445bbf6b64cc5a46344339a3ffaf3b2e3eb2f5bcbc"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "ef15c0a0a5afcf7b11376da33b893a87b8522bef65bdb36fa17d5d6eea810e9f"
 metafile = true
 
 [[files]]

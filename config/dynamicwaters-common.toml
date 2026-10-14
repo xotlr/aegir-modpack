@@ -32,7 +32,7 @@
 	#Spawn rate of river particles. Higher = fewer particles (1 in X blocks per tick).
 	# Default: 7
 	# Range: 1 ~ 100
-	riverParticleDensity = 7
+	riverParticleDensity = 3
 	#Enable visual flowing texture for rivers. If false, water looks stationary but still pushes entities. This idea is to be compatible with Physics Mod. After changing this setting, please click F3+T to reload.
 	enableRiverVisualFlow = true
 

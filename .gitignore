@@ -1,5 +1,6 @@
 # never commit jars or secrets
 *.jar
+!mods/aegir-tweaks-*.jar
 *.zip
 !vanillatweaks*.zip
 .aegir-secrets/
