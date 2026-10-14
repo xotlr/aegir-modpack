@@ -10,7 +10,7 @@ Scan date: 2026-10-14. Pack: NeoForge 21.1.259, Minecraft 1.21.1, 129 mods (+176
 |---|---|
 | 1. Hash match | 129/129 match the pinned packwiz hash (Modrinth SHA-512 / CurseForge SHA-1) |
 | 2. Right project | 119/119 Modrinth jars reverse-resolve to the intended project; 10 CurseForge jars fetched by pinned project+file ID |
-| 3. VirusTotal (hash lookup) | **Not done yet**: needs a free VirusTotal API key from Ronald |
+| 3. VirusTotal (hash lookup) | 119/129 known to VT, **0 malicious / 0 suspicious** (49+ engines each). 10 unknown to VT (404, never uploaded; not a finding): Cold Sweat Altitude, Easy NPC + Config UI, eZWeight, Footprint Particle, Particle Rain, Raised, Renourished Delight, Roaster's Delight, WN Siege |
 | 4a. jNeedle 1.1.0 | 305 jars checked, 0 found |
 | 4b. nekodetector 1.1 | No infected jars (5 Java-24 classes in ImmediatelyFast's nested `Reflect` lib unparseable by its ASM; also unused on Java 21) |
 | 4c. Overwolf jar-infection-scanner | **GUI only**: Ronald runs it once on `%USERPROFILE%\aegir-tools\scan` |
@@ -176,8 +176,31 @@ No NEW mod came out HIGH.
 | `xaerominimap-neoforge-1.21.1-26.1.0.jar` | modrinth | both | OK |  |
 | `xaeroworldmap-neoforge-1.21.1-1.40.16.jar` | modrinth | both | OK |  |
 
+## Addendum 2026-10-14 (evening): jars added after the first scan
+
+These were added and run before being scanned, which broke the scan-first rule; the scan was done
+retroactively the same day. Result: **nothing suspicious**.
+
+| Step | Result |
+|---|---|
+| 1-2. Hash match / right project | 15/15 match their official Modrinth project (`POST /v2/version_files`, SHA-512) |
+| 3. VirusTotal (hash lookup only) | 15 files 0/50-66 malicious; `exotic_worlds-1.0.0` and `c2me-...-opts-accel-opencl` not yet in VT (unknown, not flagged); Temurin 25 JRE zip 0/66 |
+| 4. jNeedle / nekodetector / Defender | 14 jars, 0 found / no infected jars / no threats |
+| IOC string sweep (`ioc_grep.py`) | 0 hits |
+| Persistence check (section 4) | fractureiser, WeedHack, Spark, Myth Stealer paths, Run key, tasks, DisableTaskMgr: all clean. Defender exclusions not readable without admin. |
+
+| Jar | Notes |
+|---|---|
+| `exotic_worlds-1.0.0+mc1.21.1.jar` | NEW, low downloads (1.7k), public source (github.com/anyttng/exotic_worlds, owner account from 2018), PolyForm Shield. FLAG-level read of all 2,731 classes incl. nested MixinSquared: only `java.net.URL` use is `ClassLoader.getResource` for mod detection; no network, process or out-of-game file access. |
+| `c2me-neoforge-...0.123.jar` | MIT, public source. Base C2ME only in the pack. |
+| `c2me-neoforge-opts-accel-opencl-...0.123.jar` | AEGIR-GPU test instance only, not in the pack. ARR. |
+| `wakes-1.21.1-NeoForge-1.4.1.jar` | GPL-3.0, no networking code (client visual). |
+| `Chunky`, `structure_layout_optimizer`, `resourcefulconfig`, `AI-Improvements`, `Clumps`, `entityculling`, `zfastnoise` | Established (8M-182M downloads); zFastNoise later removed again. |
+| `xaerominimap 26.6.0`, `xaeroworldmap 1.47.0` | Version bump for a NoSuchMethodError crash (Warring Nations calls `getThirdPartyWaypointManager`, added in minimap 26.2). |
+| `Structory_Towers_26.1_v1.0.16.jar` | Downgrade: 1.0.17's `neoforge.mods.toml` lacks `modLoader`, NeoForge rejects the file. |
+| `aegir-tweaks-*.jar` | Our own data-only jar (no classes), built from `tools/aegir-tweaks`. |
+
 ## Still to do
 
-- VirusTotal hash lookups (needs API key).
 - Overwolf scanner run (GUI).
 - Persistence check after the first client launch (section 4).

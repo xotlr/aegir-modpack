@@ -1,0 +1,112 @@
+[General]
+	#Debug message.
+	DEBUG_MESSAGE = false
+	#Default player body weight (kilograms).
+	# Default: 60.0
+	# Range: 30.0 ~ 200.0
+	base_weight = 60.0
+	#The base maximum weight a player can carry (kilograms).
+	# Default: 140.0
+	# Range: 0.0 ~ 1000.0
+	max_weight = 140.0
+	#Absolute weight threshold for light encumbrance (kilograms).
+	# Default: 5.0
+	# Range: 0.0 ~ 1000.0
+	light_encumbered_force = 5.0
+	#Absolute weight threshold for encumbrance (kilograms).
+	# Default: 15.0
+	# Range: 0.0 ~ 1000.0
+	encumbered_force = 15.0
+	#Absolute weight threshold for heavy encumbrance (kilograms).
+	# Default: 25.0
+	# Range: 0.0 ~ 1000.0
+	heavily_encumbered_force = 25.0
+	#Absolute weight threshold for overburdened state (kilograms).
+	# Default: 65.0
+	# Range: 0.0 ~ 1000.0
+	overburdened_force = 65.0
+	#Absolute weight threshold for crushed state (kilograms).
+	# Default: 95.0
+	# Range: 0.0 ~ 1000.0
+	crushed_force = 95.0
+	#If true, uses dynamic weight calculations (base weight, food, strength, etc.). If false, only uses max_weight.
+	use_dynamic_weight = true
+	#Enable or disable displaying item weight tooltips.
+	item_tooltip_enabled = true
+	#Color for base weight in item tooltip.
+	item_tooltip_color_base = "#FFD700"
+	#Color for total weight in item tooltip.
+	item_tooltip_color_total = "#FFFF00"
+
+[DynamicWeight]
+	#If true, food level affects max carry weight.
+	food_enabled = true
+	#Multiplier for food influence (0.0 disables its effect). 1.0 = default.
+	# Default: 1.0
+	# Range: 0.0 ~ 5.0
+	food_influence_multiplier = 1.0
+	#If true, Strength effect grants a flat bonus.
+	strength_enabled = true
+	#Flat bonus applied when Strength effect is active.
+	# Default: 10.0
+	# Range: -1000.0 ~ 1000.0
+	strength_bonus = 10.0
+	#If true, crouching grants a flat bonus.
+	crouch_enabled = true
+	#Flat bonus applied while crouching.
+	# Default: 5.0
+	# Range: -1000.0 ~ 1000.0
+	crouch_bonus = 5.0
+	#If true, each worn armor piece applies a penalty.
+	armor_penalty_enabled = true
+	#Penalty per worn armor piece.
+	# Default: 2.5
+	# Range: -1000.0 ~ 1000.0
+	armor_penalty_per_piece = 2.5
+
+[NoJump]
+	no_jump_weight_enabled = true
+	#Ranges [min, max]; use 'max' for player max weight.
+	no_jump_weight_ranges = ["95", "max"]
+
+[DamageOverweight]
+	damage_overweight_enabled = false
+	#List of weight percent thresholds (0.0 - 1.0) where damage starts. Example: ["0.8"]
+	damage_overweight_thresholds = ["0.8"]
+	#Damage per second while overweight.
+	# Default: 0.5
+	# Range: 0.0 ~ 100.0
+	damage_per_second = 0.5
+
+[TACZGunWeight]
+	#If true, includes attachment weight in gun total weight.
+	attachment_weight_enabled = true
+	#Multiplier applied to summed attachment weight.
+	# Default: 1.0
+	# Range: 0.0 ~ 20.0
+	attachment_weight_multiplier = 1.0
+	#If true, includes ammo weight in gun total weight.
+	ammo_weight_enabled = true
+	#Default weight per single bullet/round.
+	# Default: 0.02
+	# Range: 0.0 ~ 1.0
+	ammo_weight_per_round = 0.02
+	#Multiplier applied to computed ammo weight (rounds * per_round).
+	# Default: 1.0
+	# Range: 0.0 ~ 20.0
+	ammo_weight_multiplier = 1.0
+
+[BackpackWeight]
+	#If true, backpacks reduce the weight of their contents.
+	backpack_weight_reduction_enabled = false
+	#Default weight reduction for backpacks (0.20 = 20% reduction).
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	backpack_weight_reduction_default = 0.2
+	#If true, shows weight reduction percentage in backpack tooltip.
+	backpack_show_tooltip = true
+	#Color for backpack weight reduction tooltip.
+	backpack_tooltip_color = "#00FF00"
+	#Extra item IDs to treat as backpacks (weight reduction applied to their contents).
+	#Format: "namespace:item_id". Example: "minecraft:shulker_box"
+	custom_backpack_items = []

@@ -10,6 +10,14 @@ hash = "ec647e2bec47c16213a015b7ea0bb1664073237ad895395b8a800fd257191ba2"
 preserve = true
 
 [[files]]
+file = "config/coldsweat/item.toml"
+hash = "f25e7337d0a2c903809c42fe401ca8480726e5559b7bc59d768c63350658bf60"
+
+[[files]]
+file = "config/coldsweat/world.toml"
+hash = "2d6d40e14416c7709ca10b21e0237d6aeca44da65905a8b9037a745ebda869e4"
+
+[[files]]
 file = "config/coldsweat_altitude-server.toml"
 hash = "edb7d60c0d5f1aa29399a1e4d5e0cca9f0a73e3d2503ef33ee4aaf4795340489"
 
@@ -23,8 +31,42 @@ file = "config/dynamicwaters-common.toml"
 hash = "9f2827f5c85b2ba34058c5f3745372544acd0080f19ef6f58d8b8b8da0252cdd"
 
 [[files]]
+file = "config/easy_npc/remote_texture.cfg"
+hash = "69e8eaed28f081d177c1d7a7f1add1b0dbef0c1e0cd798f2ce2e69c95a8927a1"
+
+[[files]]
+file = "config/ezweight/config.toml"
+hash = "97f01c7e4c9d00560c5d7c4dc0a22c161954d4dc1800cb759b8b22d0e16161b4"
+
+[[files]]
+file = "config/ftbessentials.snbt"
+hash = "14c425cf0fbbfb43b57b43423110e268696373ce949c16072a630ae0c59094e7"
+
+[[files]]
 file = "config/historystages-common.toml"
 hash = "0961e5495fd8b7aaaabfce5242b95cea0abc6bea017c0b558d7d3c816f5e9780"
+
+[[files]]
+file = "config/iris.properties"
+hash = "5350f47ecdb67638d8bdff192f60cb652f1d6e0f904203c82917a249f805b6c0"
+preserve = true
+
+[[files]]
+file = "config/mca.json"
+hash = "66660dfda1861eb18e7da2ef16b238a0f5bd665dc300a95c0de4d0027ca15b8f"
+
+[[files]]
+file = "config/particular-common.toml"
+hash = "a5a50833b2606984b062e32a8e6b3de6b6fb69d482d16b2c2be00eea8cb178a2"
+
+[[files]]
+file = "config/renourisheddelight/client.json5"
+hash = "bfe3eb506a7d4416a94f039ef111d8cce33d9615ef74271df621363da01e34ce"
+preserve = true
+
+[[files]]
+file = "config/snowrealmagic-common.yaml"
+hash = "f38fefea6563c307cefcca451961f677889f495e774c9f59a78e062ab0111241"
 
 [[files]]
 file = "config/terralith.json"
@@ -131,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/comfortable-campfires.pw.toml"
-hash = "39711de7f34765eb497155f91ecc067b48cf4c920ed5f5982188591ff9b7961e"
+hash = "88c02dc76ce2274287aad6654e0f57a77936fcaa13f3c19ece02de6d0b3431e7"
 metafile = true
 
 [[files]]
