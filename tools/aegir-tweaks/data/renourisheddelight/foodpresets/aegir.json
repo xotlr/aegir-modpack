@@ -1,0 +1,3649 @@
+[
+  {
+    "item": "minecraft:apple",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 18000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:baked_potato",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 18000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:beetroot",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 18000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:bread",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 18000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:carrot",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 18000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:cooked_beef",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 18000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:cooked_chicken",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 18000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:cooked_cod",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 18000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:cooked_mutton",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 18000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:cooked_porkchop",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 18000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:cooked_rabbit",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 18000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:cooked_salmon",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 18000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:dried_kelp",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 18000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:glow_berries",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 18000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:melon_slice",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 18000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:sweet_berries",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 18000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:apple_pie",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:apple_pie_slice",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:bacon_sandwich",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:barbecue_stick",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:beef_patty",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:cabbage_rolls",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:cake_slice",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:chicken_sandwich",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:chocolate_pie",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:chocolate_pie_slice",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:cod_roll",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:cooked_bacon",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:cooked_chicken_cuts",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:cooked_cod_slice",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:cooked_mutton_chops",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:cooked_salmon_slice",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:dumplings",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:egg_sandwich",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:fried_egg",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:fruit_salad",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:glow_berry_custard",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:hamburger",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:honey_cookie",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:kelp_roll",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:kelp_roll_slice",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:melon_popsicle",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:mutton_wrap",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:pumpkin_pie_slice",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:salmon_roll",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:stuffed_potato",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:sweet_berry_cheesecake",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:sweet_berry_cheesecake_slice",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:sweet_berry_cookie",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:cake",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:cookie",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:pumpkin_pie",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:americano",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:battenberg_slice",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:biscotti",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:chocolate_eclair",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:coffee",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:coffee_cake",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:coffee_cake_slice",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:coffee_eclair",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:crumpet",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:dorayaki",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:egg_tart",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:hanami_dango",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:honey_chamomile_cake",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:honey_chamomile_cake_slice",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:iced_americano",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:iced_coffee",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:instant_coffee",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:jam_scone",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:latte",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:legendary_coffee",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:macarons",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:madeleine",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:matcha_cookie",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:matcha_mochi",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:matcha_swiss_roll_slice",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:mini_quiche",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:mint_jelly",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:mooncake",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:salmon_finger_sandwich",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:sausage_roll",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:scone",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:shortbread",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:spring_roll",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:stroopwafel",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:taiyaki",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:tea_sandwich",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:teacake",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:tiramisu_slice",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:victoria_sponge",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:victoria_sponge_slice",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 24000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 12000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:apple_jelly",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:beer",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:bloody_mary",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:cheesy_pasta",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:cocoa_fudge",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:creamy_onion_soup",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:dread_nog",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:egg_grog",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:fiery_fondue",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:fiery_fondue_pot",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:flaxen_cheese_wedge",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:flaxen_cheese_wheel",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:glittering_grenadine",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:glow_berry_marmalade",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:ham_and_cheese_sandwich",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:jerky",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:kimchi",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:kippers",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:kombucha",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:mead",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:pale_jane",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:pickled_pickles",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:pizza",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:pizza_slice",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:quiche",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:red_rum",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:rice_wine",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:saccharine_rum",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:salty_folly",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:scarlet_cheese_wedge",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:scarlet_cheese_wheel",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:scarlet_pierogi",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:steel_toe_stout",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:strongroot_ale",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:sweet_berry_jam",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:vegetable_omelet",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:vodka",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "brewinandchewin:withering_dross",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:bacon_and_eggs",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:baked_cod_stew",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:beef_stew",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:bone_broth",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:chicken_soup",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:cooked_rice",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:fish_stew",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:fried_rice",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:gleaming_salad",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:grilled_salmon",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:mixed_salad",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:mushroom_rice",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:noodle_soup",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:onion_soup",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:pasta_with_meatballs",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:pasta_with_mutton_chop",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:pumpkin_soup",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:ratatouille",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:roasted_mutton_chops",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:squid_ink_pasta",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:steak_and_potatoes",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:vegetable_noodles",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:vegetable_soup",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "fishofthieves:cooked_ancientscale",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "fishofthieves:cooked_battlegill",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "fishofthieves:cooked_devilfish",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "fishofthieves:cooked_islehopper",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "fishofthieves:cooked_plentifin",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "fishofthieves:cooked_pondie",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "fishofthieves:cooked_splashtail",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "fishofthieves:cooked_stormfish",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "fishofthieves:cooked_wildsplash",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "fishofthieves:cooked_wrecker",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:beetroot_soup",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:mushroom_stew",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:rabbit_stew",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "minecraft:suspicious_stew",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:afternoon_tea_platter",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "spawn:clam_chowder",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "spawn:crab_boil",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 30000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 20000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 10000
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:honey_glazed_ham",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 36000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 28800
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 21600
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 14400
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 7200
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:rice_roll_medley_block",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 36000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 28800
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 21600
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 14400
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 7200
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:roast_chicken",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 36000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 28800
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 21600
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 14400
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 7200
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:shepherds_pie",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 36000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 28800
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 21600
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 14400
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 7200
+      }
+    ]
+  },
+  {
+    "item": "farmersdelight:stuffed_pumpkin",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 36000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 28800
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 21600
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 14400
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 7200
+      }
+    ]
+  },
+  {
+    "item": "minecraft:chorus_fruit",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 36000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 28800
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 21600
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 14400
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 7200
+      }
+    ]
+  },
+  {
+    "item": "minecraft:enchanted_golden_apple",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 36000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 28800
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 21600
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 14400
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 7200
+      }
+    ]
+  },
+  {
+    "item": "minecraft:golden_apple",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 36000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 28800
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 21600
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 14400
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 7200
+      }
+    ]
+  },
+  {
+    "item": "minecraft:golden_carrot",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 36000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 28800
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 21600
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 14400
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 7200
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:afternoon_tea_stand",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 36000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 28800
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 21600
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 14400
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 7200
+      }
+    ]
+  },
+  {
+    "item": "roasters_delight:tiramisu",
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 36000
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 28800
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 21600
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 14400
+      },
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "amount": 2.0,
+        "duration": 7200
+      }
+    ]
+  }
+]
