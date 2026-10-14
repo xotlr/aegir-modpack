@@ -102,6 +102,6 @@
 
 [General]
 	#Show the welcome message when joining the world.
-	showWelcomeMessage = true
+	showWelcomeMessage = false
 	#Automatically disable underground rivers from the Tectonic mod to improve performance and compatibility with Dynamic Waters.
 	disableTectonicUndergroundRivers = true

@@ -10,13 +10,25 @@ hash = "ec647e2bec47c16213a015b7ea0bb1664073237ad895395b8a800fd257191ba2"
 preserve = true
 
 [[files]]
+file = "config/coldsweat_altitude-server.toml"
+hash = "edb7d60c0d5f1aa29399a1e4d5e0cca9f0a73e3d2503ef33ee4aaf4795340489"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "ba818e92c03a14665d63e631375180efad48800eb330b0debaa05b02d04dfb89"
 preserve = true
 
 [[files]]
 file = "config/dynamicwaters-common.toml"
-hash = "4f4a1600f839c78eadab7e8e02b1163451ac4cab2f93e4d348e9242531e1beb2"
+hash = "25964be2963c996850f13f1b09e733333521cddc8311f322aa6571270ff3518f"
+
+[[files]]
+file = "config/historystages-common.toml"
+hash = "0961e5495fd8b7aaaabfce5242b95cea0abc6bea017c0b558d7d3c816f5e9780"
+
+[[files]]
+file = "config/terralith.json"
+hash = "cb8a5d8613fdcc2316654d573c1c06220b5db35802c8837f2dd4a11f1767bd4a"
 
 [[files]]
 file = "mods/alexs-mobs-1.21.1.pw.toml"
