@@ -209,6 +209,8 @@ Scanned **before** first run. Result: **nothing suspicious**.
 | YUNG's API 5.1.9, Better Ocean Monuments 4.1.2, Mineshafts 5.1.1, Dungeons 5.1.4, Strongholds 5.1.3, Desert Temples 4.1.5, Jungle Temples 3.1.2, Witch Huts 4.1.1, Nether Fortresses 3.1.5, Extras 5.1.1, Bridges 5.1.1 | 11/11 match official Modrinth projects | 0 malicious on 64-66 engines each | clean / clean / no threats / 0 hits | Established. Better End Island left out (clashes with Nullscape). |
 | `etched-5.1.0.jar` | matches Modrinth `etched` (GPL-3.0, public source) | 0/64 | clean / clean / - / 0 hits | Network by design: fetches audio from SoundCloud (`api-v2.soundcloud.com`), Bandcamp (`f4.bcbits.com`) or the direct URL a player etches. Only `Runtime` use is a shutdown hook that deletes its audio cache. No process launching. |
 
+| `ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar` | matches Modrinth `resource-pack-overrides` (Fuzs, MPL-2.0) | 0/64 | clean / clean / - / 0 hits | No network or process code. Client only. |
+
 Rejected: **VinURL** (YouTube discs). It downloads and runs yt-dlp, Deno and FFmpeg executables at runtime on clients and server, which this report's rules treat as a flag, and ripping YouTube audio breaks YouTube's terms.
 
 ## Still to do

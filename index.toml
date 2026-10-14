@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "aegir/import-vanilla-settings.ps1"
-hash = "a826e5aec0e518250887802ba0f37d0f69afc7460394c8b7981d9b11acf47f96"
+hash = "b7f195b8a1b1d3e7c297c8a94168e6d104c70abaf622444a88d8a58f72d40f0b"
 
 [[files]]
 file = "config/chunky/config.json"
@@ -68,6 +68,10 @@ hash = "ac4b1154061ec8f63d18de34705b95bd90ea6c9ab664e5a64743207dd27586b8"
 file = "config/renourisheddelight/client.json5"
 hash = "bfe3eb506a7d4416a94f039ef111d8cce33d9615ef74271df621363da01e34ce"
 preserve = true
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "985353d0d57317e24aac3be721e8b9b98f35e2ac4109310241033d4bcf5fbee2"
 
 [[files]]
 file = "config/snowrealmagic-common.yaml"
@@ -596,6 +600,11 @@ hash = "021196d8a2b654a66243f6102e14273298f06bd9dae1591ee47395c273d211be"
 metafile = true
 
 [[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "e229505042a240cab6573e498c7e713a6224341849efcf414a43b7e4131823bc"
 metafile = true
@@ -824,6 +833,934 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "cfb7ce4c2b00cedd2e61f7d345b824d6bcc1471021668d2319ee2e4079108639"
 metafile = true
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/texts/splashes.txt"
+hash = "bd55c742b32c60c8fbd4a165a6b1b957319c1742523e0d2fdad83895b78843f0"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/advancements/backgrounds/adventure.png"
+hash = "85e15604b6a838cb52c8810c7f9bc77f6cef1878717a190ec28417f2122dc875"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/advancements/backgrounds/end.png"
+hash = "879ba6549e0c512c2b5b426f6b70030a808cd38f31bbfcacfb69812d756d8ef2"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/advancements/backgrounds/husbandry.png"
+hash = "c8e2dd0fc21ace61eff32f7ad0604535fe00a83b12a2ca605504029a1d6fce98"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/advancements/backgrounds/nether.png"
+hash = "19bbeeb18f30b8966c16ac5befc39493392c4117ad117f08b1aaaa0f889760d9"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/advancements/backgrounds/stone.png"
+hash = "c7202ebb720bb64c9775eabe6fa1b0cfcbf18ad7e1367af2efe4eab0f3413be1"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/advancements/window.png"
+hash = "ba1b8e80707b7bd3fdd4a6b4a9bbfe363c2d0ce5b99e9120b2140880b5a6ee07"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/anvil.png"
+hash = "539316020aa537aa4265865abc663b857346cc774df9d5d127bdd2dd785bfa83"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/beacon.png"
+hash = "6c1b0585a60024d67b2a3fa790a78331b86d19c0d32af4de346eb1a1224494a8"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/blast_furnace.png"
+hash = "5cf838e3c9836f476130573f854ba8f7f3ab4fbe6247157ba3fd62ede41505af"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/brewing_stand.png"
+hash = "45806a507a61eb4a83994662ac2fb4551275f8d49e15e86a672c5b25775a082c"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/cartography_table.png"
+hash = "27a59607d28f6e40eebb4571fa7246bf95cc3323740ab985a5ea41649051e979"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/crafter.png"
+hash = "cc00835a941cf97b8cef90aaa5c307fbf374291bbcb94d141d6548152d6b42e9"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/crafting_table.png"
+hash = "a1c3aa0a3a8b516f36be32780c5e67674bb36f5d6ac4f5b990b8004d037c1919"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+hash = "5e01a0e86b149d0558999d0b07eaa34ed35711140af7c2b12756822906518ef8"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+hash = "998d826153e04d94b6e86b6ebe73f91c40da05098a9fd23e596c57599aa3760f"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+hash = "e726c1749c474413fc0d7d0eb8a572d3a75451aa59aff633cc27dee5f13f321e"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/dispenser.png"
+hash = "fb2585f5b85950373d262f4d1027ce4629b847566a03dc5f3e52c3ed14942d8f"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/enchanting_table.png"
+hash = "e3511473372383532934f19141e08a729e19dc37ddc0a2f0d29de1b5121aabaa"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/furnace.png"
+hash = "6b94db18509dad0960de6d17fedd1766a95c088fc84eae622437e4c3ac30f75a"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/gamemode_switcher.png"
+hash = "5f69de1a86787e79683d842ac1e89f218e3480e38f92c96c00af8a120c3b28a7"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/generic_54.png"
+hash = "74e7fbb9a179f0e5614a9568cf5b0a73851456bf61f5e9c42f6a6635a41ea82f"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/grindstone.png"
+hash = "04edae491caeb936e89178f817cba53fc49c57331a8bce3025d8729e4c42b469"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/hopper.png"
+hash = "b78420e28bc1c24879e1e6aa06a65d697f52338c437c248c6e27d02c7868d9e8"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/horse.png"
+hash = "5f90dc2ca7a4f933ad17519a978fd6e4bbf0eec9ba21040949e20d3d799b333b"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/inventory.png"
+hash = "655d90fed3c5c66e3de061a8d917ee1deb19261341217d06ad20b601c194e407"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/loom.png"
+hash = "658f2bc3552b82002eca363df2e0d92b1acd3062049d3cb40be4bbae6225f7fa"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/shulker_box.png"
+hash = "f1db45602bf328ed98b4c6b4cf42c5ed35e543434722152943b4661dd0853ffb"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/smithing.png"
+hash = "87d2ade4eae32272846ac2baf269895a5737a69a3ea28c34cbafeffb2d92961f"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/smoker.png"
+hash = "49ca4abd3adcccba026e85b4431a93f1d2ade7c7aa66d223fa68fd03ed001311"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/stonecutter.png"
+hash = "ed28a41f39d6582eb9d2ae6bc74edfccbfbc5224a7f842e9ba96681aa69e91fd"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/container/villager.png"
+hash = "044ac91d9556a23ebf66e1e5c3e14da9f53f8da76c85f65b61bc5eb04fd9ff24"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/box_obtained.png"
+hash = "697264cf36c6cbfb7c6eae5e6e387f2733ca75899dc3dcb5b1358b3276452a83"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/box_unobtained.png"
+hash = "a1d11ef4616273ceb4790370928829125e6d9fdd620d234a8ac44f09ebd30ab8"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/challenge_frame_obtained.png"
+hash = "d385470eb753cf1e7691b403092479ac4822bd9df7b0d386254afc9a035c9295"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/challenge_frame_unobtained.png"
+hash = "9d88304520a6611b6a95f83d6431bef0eacbf3c5ab94d543251755bf3139824d"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/goal_frame_obtained.png"
+hash = "8454249e063d7747a2a2664a3bdd292e02b41bed1f6985972fe4982852622165"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/goal_frame_unobtained.png"
+hash = "d78979426595b55a38405d5320ccf0312db3e5fc2f626fb30fbc2fae9dfb08f0"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_above_left.png"
+hash = "f2aa3c3d7967c11422f6cfbaecb81d3410db4b877d398fc8754c2ca23ad75903"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_above_left_selected.png"
+hash = "714ff9b12d0c5595766119eb9ada7ac2cd8e0b53a05b570df5e0ab7d00db6bc5"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_above_middle.png"
+hash = "2880a952e3df0219165db6d41153d2616aca818cbdbe1aacc790a78b02506cfb"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_above_middle_selected.png"
+hash = "d8deb6394e9899f79731d66cac17654453ab934a7c81f1afd924c6700f207692"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_above_right.png"
+hash = "fbfb755e228b130cc7c99857e7e63701cac50b151c059ba2ed2b5506c63ffd78"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_above_right_selected.png"
+hash = "f0a44d20117a1f350debace3520e6be0efb9e10b6e89f912b11d91353062044c"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_below_left.png"
+hash = "968566c177e6dced43d4ecc0bb2798d46f75f8ea61ef29eff3465d8cbe7d229b"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_below_left_selected.png"
+hash = "c13878c0706bd4740fbad2e308396a9acecd6831378d7062487a6381ea040958"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_below_middle.png"
+hash = "9f70194528f10c9da3ce2ee8dc443cd561206421d4d6e8d01160a0eb1535ec8f"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_below_middle_selected.png"
+hash = "2c8bd5520fd3b23cedc637b50015917b287855fe7b2f21997551d6fb7159e1c6"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_below_right.png"
+hash = "d7c5dc801efbe08f87ded90e697012e019c706f974e95a4e17d3fe73ca5b8f8f"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_below_right_selected.png"
+hash = "adaeecffad1dd97463f43c6050fb713c7f2cc633cea3f619cf8adf9935c0152d"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_left_bottom.png"
+hash = "ca65af6d5a75c3d1e43a86135930a8cf2278684a38c75ce61efb9cf3e8c1032e"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_left_bottom_selected.png"
+hash = "6ae230ea385d7581a1b42a3b1a9f940828a27238646d3ffead403b3774c233b3"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_left_middle.png"
+hash = "ca65af6d5a75c3d1e43a86135930a8cf2278684a38c75ce61efb9cf3e8c1032e"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_left_middle_selected.png"
+hash = "ec96ed72fdfedf323109a0d8266fb49e73732ab2232057e63b4ec051cb0cdbb0"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_left_top.png"
+hash = "ca65af6d5a75c3d1e43a86135930a8cf2278684a38c75ce61efb9cf3e8c1032e"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_left_top_selected.png"
+hash = "4a77eb5a00dd7b8cbfb6691fa6b0e8c3af35a9ace6d8f6af60e10f546f951e4b"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_right_bottom.png"
+hash = "9d86ecc991a176acba1339aa6a98115c55def9029184a1a09fdaec5c3110504d"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_right_bottom_selected.png"
+hash = "cf6831c2ab3a5b2644c7a06119ffb09103437c1057025c27331d26d7a0d9b4b7"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_right_middle.png"
+hash = "9d86ecc991a176acba1339aa6a98115c55def9029184a1a09fdaec5c3110504d"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_right_middle_selected.png"
+hash = "e865a88c5dd97ba1f26e5439387605d8f7cb6c6c909058dd7a7d91cad11b1cbd"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_right_top.png"
+hash = "9d86ecc991a176acba1339aa6a98115c55def9029184a1a09fdaec5c3110504d"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/tab_right_top_selected.png"
+hash = "667cb5dec83d3e9d8139e738f8bc06ed611aff473bf224646d3e15d8e332cd4e"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/task_frame_obtained.png"
+hash = "2b2d966daf68ceb8f5a7cb98aa7c8e8981689cc2b8daca40bfb55eda7b170d6b"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/task_frame_unobtained.png"
+hash = "531a11095cfd992ff129bb56b629946fdb193d265c29d610f56d888781210112"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/title_box.png"
+hash = "e8e5538533b6ae16e943234e6430afc774b50511bbbc0d1e6389b299d8f7bd41"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/advancements/title_box.png.mcmeta"
+hash = "35116d4370f3c8ba7baba990c1155e839a93441251f2fa56998a5a7f17299f15"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/anvil/error.png"
+hash = "eca7c3eae41fd02c3de4e4c31e7bcb3c0e6597a64d3eb3bab0dafae64b123e67"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/anvil/text_field.png"
+hash = "4c8984ba44aa24c6fd8c1a4f0e1d69d3ee7a408575cc801d990c6ba9da124868"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/anvil/text_field_disabled.png"
+hash = "2bef0b21714976602f791fd713322a3b2001022ebc1398368291f6fe801fbb55"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/beacon/button.png"
+hash = "87887a7a9ba19b81a453c5d5a220aa8134adbd470bd4ebf4979ad043fcb4c047"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/beacon/button_disabled.png"
+hash = "59180a711636985379c2c73f24c7970720aab9f167d08094da68b603ee316c66"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/beacon/button_highlighted.png"
+hash = "1b3d3cff8d3850ce98272edcb01c6c1d2638d91520db7ee3eb1271462c902a91"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/beacon/button_selected.png"
+hash = "fd8d648ce6dd2c7f50741f4df65f7508090f67c10f44991fe07871710d8fbb47"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/beacon/cancel.png"
+hash = "0e6f90ded1d308e43fd73c2b0e9d1908dfe9c93ba8baf4ae92c2ae3e32f43a46"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/beacon/confirm.png"
+hash = "d1595e4619a468c6bf97564dbeb80494d96c0892e45d74d50aa6353b807806d9"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/blast_furnace/burn_progress.png"
+hash = "496609f54bd08588fabf61fc5718b50e9196dc422e37768f16b809bb65efdae9"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/blast_furnace/lit_progress.png"
+hash = "d3794eadc400f3518d19a3fe7dcfdfd76619e6bba9abb2a952c8d57a3b7d8ffd"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/brewing_stand/brew_progress.png"
+hash = "e17bbcd645d6b47d73a7613efa632d6ac07ffb32ec06c1d90ac5d9c886e38410"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/brewing_stand/bubbles.png"
+hash = "350eac69443d908ca127e3c03a9de759327fa9fa96de96634e3782c14a7dc08b"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/brewing_stand/fuel_length.png"
+hash = "5c8b7d1ee03c3e1169e0e2eced087eba0418dc1181f5b38f6f10e2bc6f1305ab"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/bundle/background.png"
+hash = "3f47276fa500f12e9c5a266c28a1afa2ff54ed2282f8ae707fcafafb2cbda495"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/bundle/background.png.mcmeta"
+hash = "1d490688369c1bd7b79fcd6b38e9f8af3ac5d88abe226624c0e27569030c52f5"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/bundle/blocked_slot.png"
+hash = "47908d0275f153ee80ab7b17756a5dad55651edadbf1919c75e4b5af73e7940e"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/bundle/slot.png"
+hash = "39ac733421c5500efb2b8443f5f79531bf065bb44eca5c826e9356df53e2724b"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/cartography_table/duplicated_map.png"
+hash = "6af86f317f92e39e92c7139c3c1501e8b6a21d7930a6576748eb055936b3d2c5"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/cartography_table/error.png"
+hash = "27393962fbc39b04bac80834de43899e5bdee1d2434c0de2a4023e0758b84c97"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/cartography_table/locked.png"
+hash = "b2c007bba3f8ce598a5165d863ae4b024583f814bcfcbb24c2d3fb1ae2132e80"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/cartography_table/map.png"
+hash = "0c6bbf461341c799e064116d414447f96f9cb2f1995b42729579c90329c7bb57"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/cartography_table/scaled_map.png"
+hash = "cbb07e6c491bcd2f91903de86c5c3f5dd38e30665521b87e8fee96377213a2cf"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/crafter/disabled_slot.png"
+hash = "a0dc19a09b055b464431a629be3198c8f2615b2f7e6c99aee20f70ebdd41d5ea"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/crafter/powered_redstone.png"
+hash = "de54d3af156de09d2967f059ae62a1d956354f4fd8ce3ba0f7c9bcc0c53430e1"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/crafter/unpowered_redstone.png"
+hash = "3b55c2dd3b3461078fe503b56f227943b051e9aac36a899304a3de6b95a50870"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/scroller.png"
+hash = "a1c84d6854a93070247b6a058a6ab818086a07aae6a7d0f75cf96139dea46ae7"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/scroller_disabled.png"
+hash = "d903857a5600b283eca740584656a30f0f0bc2e99d6adc167979dd8902ecf4cd"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_selected_1.png"
+hash = "b17770153d57b01a874eebefeef6251f1b529752f057f3a0e3f986c0b93342e7"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_selected_2.png"
+hash = "ffa519c7d2ab8d093d29a6937fecefc9fc51227145c8fb757775975371106d0e"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_selected_3.png"
+hash = "dd731374f83c1875a25665bca5667a869a205f8bbb27a89c4dc47e13d1d57694"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_selected_4.png"
+hash = "7fbcba11df08071e25e48877f06b6a31c3660e6223e4136e929a5b7473a31ae4"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_selected_5.png"
+hash = "e315c83ee5e6e7b79ec813f723fdd0ea1ad3e2ed820c4f7f32659ec6918db77c"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_selected_6.png"
+hash = "51fe18e3eac0a59b484e2231ae043e0ba2c226ae850b9c0816591a6de5b472eb"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_selected_7.png"
+hash = "edf796007ad05599b9a30c750eed9ac3b45aa8342113213de67845952710519e"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_1.png"
+hash = "d89a8447fd54a4a259c905c2356d0872a1cd6466b61a6bac16e8e82bec059b99"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_2.png"
+hash = "d89a8447fd54a4a259c905c2356d0872a1cd6466b61a6bac16e8e82bec059b99"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_3.png"
+hash = "d89a8447fd54a4a259c905c2356d0872a1cd6466b61a6bac16e8e82bec059b99"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_4.png"
+hash = "d89a8447fd54a4a259c905c2356d0872a1cd6466b61a6bac16e8e82bec059b99"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_5.png"
+hash = "d89a8447fd54a4a259c905c2356d0872a1cd6466b61a6bac16e8e82bec059b99"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_6.png"
+hash = "d89a8447fd54a4a259c905c2356d0872a1cd6466b61a6bac16e8e82bec059b99"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_7.png"
+hash = "d89a8447fd54a4a259c905c2356d0872a1cd6466b61a6bac16e8e82bec059b99"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_selected_1.png"
+hash = "fe4522ba6dfa1796cf1ee511a285c30f1de39aeb809439bba53af165521a5594"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_selected_2.png"
+hash = "43090cbec1f5a43bdacfb177cd2de285407614dd9cd98839e97d856fffd0c8ee"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_selected_3.png"
+hash = "fc30446db489d466de5981a81a0dd54801e7a59b98f6ae0dd03e82e43d9148f0"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_selected_4.png"
+hash = "61fb9a6b9656ab60c76660944f148f64a1486cd3ab5c79986670c770f6f86476"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_selected_5.png"
+hash = "4322d9ba8a609b5adfb6c76d1618800a351b83d3ab876e50082a4ca1c0ab2f9f"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_selected_6.png"
+hash = "e68ea9749376e555b52e7332fb521bb2c5790cb8e2ab65bad7585187fba8f424"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_selected_7.png"
+hash = "d39ffd177cb532c1d197d8f1f180a04a27822ed9178c4e47f0e176c8f42747eb"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_unselected_1.png"
+hash = "2a86396f1c3286aeef422aaf0594fa228188830dbf2c64d5e110ad8dc53a9bda"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_unselected_2.png"
+hash = "2a86396f1c3286aeef422aaf0594fa228188830dbf2c64d5e110ad8dc53a9bda"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_unselected_3.png"
+hash = "2a86396f1c3286aeef422aaf0594fa228188830dbf2c64d5e110ad8dc53a9bda"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_unselected_4.png"
+hash = "2a86396f1c3286aeef422aaf0594fa228188830dbf2c64d5e110ad8dc53a9bda"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_unselected_5.png"
+hash = "2a86396f1c3286aeef422aaf0594fa228188830dbf2c64d5e110ad8dc53a9bda"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_unselected_6.png"
+hash = "2a86396f1c3286aeef422aaf0594fa228188830dbf2c64d5e110ad8dc53a9bda"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_unselected_7.png"
+hash = "2a86396f1c3286aeef422aaf0594fa228188830dbf2c64d5e110ad8dc53a9bda"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/enchanting_table/enchantment_slot.png"
+hash = "303034855b349ac8c0e5a69d85f50862be727b5f64340122792982493e8d9d2d"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/enchanting_table/enchantment_slot_disabled.png"
+hash = "ef57abf95bfdb3c2b655d690919e5ac4e9fcee02e5d6b84ddb68dd059c3f3554"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/enchanting_table/enchantment_slot_highlighted.png"
+hash = "bec5a0317c471ef9d7ce5b93f94f7c731ac9d8f9f943f12585f73fc7308a1c72"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/enchanting_table/level_1.png"
+hash = "c0996d885fd024749a556709dc2723e6b0c59d0101bf8e0fefe86959bb8efad3"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/enchanting_table/level_1_disabled.png"
+hash = "015126bae774d582c510ac138c6b0543f305579485dc17f563b3a8c73726699e"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/enchanting_table/level_2.png"
+hash = "e08cde4c1def51f99afc7cbe0bf941f776c7ca5034960775fa73dec971dcafc7"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/enchanting_table/level_2_disabled.png"
+hash = "737dfb11136d45fecd43bc0096efbed1be6e1d6773fe6263140bb1172aceaa88"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/enchanting_table/level_3.png"
+hash = "2e0cc9bb54b067d3c2b46c458b713150ab5e64d1e06d46358a268b74e95497fd"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/enchanting_table/level_3_disabled.png"
+hash = "1dbc8c4063cc56444f947ac31a7e3aac86bcb9c96e612ebb8be115bb33c3773f"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/furnace/burn_progress.png"
+hash = "d2c27fd7b8736cdf365000b8a866a1b3cc4bf167554c782f0184e7e43c02859c"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/furnace/lit_progress.png"
+hash = "cf94fc0d2552d99128c3405be15945518e072be7c3917ca32f9a4b727f1e2517"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/grindstone/error.png"
+hash = "5aea292b706216fd834e30141a1fc3d06f22119ee4ca53dac636fe3d94cd54da"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/horse/armor_slot.png"
+hash = "fc2f01f5899f3dc11ad4bb4765f5f500206bb35ec0bd06c2ccfb80687fada61c"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/horse/chest_slots.png"
+hash = "4f270f3cdce9c36b1f929fc91628ec6c5df0736225c364c8135822f790bfc0bf"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/horse/llama_armor_slot.png"
+hash = "f8d77ca39f30b40af9a3c639266c7c86455975f1b39ec5053b821ee35e6bdbf2"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/horse/saddle_slot.png"
+hash = "abd5aa7bfe1511f88383e670132c0b60b764d57a7dd6b0a9116e70595a1102a0"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/inventory/effect_background_large.png"
+hash = "153246f77ec01bdc589bb5cba274a622b6255186e210b211fe55d9ac9f0d2fe8"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/inventory/effect_background_small.png"
+hash = "cb4f40f8fd7c2dd9410fc1c555339845d694e7798f46b5d518d7f25876b715fd"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/loom/banner_slot.png"
+hash = "c1f8b82d7ca6398a790a35da4fb449ba695048d9fa3cf44285e247fa0d2045bd"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/loom/dye_slot.png"
+hash = "1a6c5a460ca9a1c39f1a64b6af3dc0383bfc20d448426bd92d67f6028232e65b"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/loom/error.png"
+hash = "f70f125a51da5a1deafafb5d139293901869bb7b6fd1c97d16abcea850138f3f"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/loom/pattern.png"
+hash = "5a4ae4a9410ca2d2115b74bc8ffe140c456c7d440ba5b352c61696140fa7c32e"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/loom/pattern_highlighted.png"
+hash = "1990dc021288bc665f2023b79ac8407662bca2eae24c8c45b65c89a774546fa8"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/loom/pattern_selected.png"
+hash = "ae9b232b4b3ffc0ff995b0f8390fce6ed536ee5bcec66a63c3206949133cb841"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/loom/pattern_slot.png"
+hash = "8ba7b90de6dda7aaeac708ebecaab69616fa9d73fd9d41579c474a92a305873e"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/loom/scroller.png"
+hash = "6787e66ca2dbd7e264d9c231dda9c76b345c46921c4fcb1c911ebfcbacfe42a0"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/loom/scroller_disabled.png"
+hash = "d903857a5600b283eca740584656a30f0f0bc2e99d6adc167979dd8902ecf4cd"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/slot.png"
+hash = "3cb214d321c35ec31c722f07150bc0539774b3afbdccce947a87b699c84d0d9e"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/smithing/error.png"
+hash = "f1c7d7108800d1a1b86b58783c931fe33b9056f137fac489a8f66faab7434a7a"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/smoker/burn_progress.png"
+hash = "0b03569ea18f51310cbc46f32a30a3fbbd059b6492063c3742e8ad4715981ca8"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/smoker/lit_progress.png"
+hash = "2d271a5a7fcb62609b3bad96343704ce023acb5320fcd21675de1e55731f9555"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/stonecutter/recipe.png"
+hash = "568dfbc66ed12c28523533c086fb8d066842899ee99799f5aad5d29ec5ff1a90"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/stonecutter/recipe_highlighted.png"
+hash = "0f2412b6c2f3a1518964db75e3e0c1a907e5e362f06ea06f61013434a3424f50"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/stonecutter/recipe_selected.png"
+hash = "e1fa0815a006d44abe9073bd67ba01b4c339c8d392d70996ceb34ad429a55067"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/stonecutter/scroller.png"
+hash = "d1ffe58bc3c713702f432e4c0261be2de40e985e64c40862d58e8c6bc2db4b81"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/stonecutter/scroller_disabled.png"
+hash = "d903857a5600b283eca740584656a30f0f0bc2e99d6adc167979dd8902ecf4cd"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/villager/discount_strikethrough.png"
+hash = "5c2092f86c899de278365933c847238befde52402b0346b4ee8d283976837b4d"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/villager/experience_bar_background.png"
+hash = "2be01c926df8297719d67fb83833126bd60973b70c6f3a035b71b758a1b1a9c6"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/villager/experience_bar_current.png"
+hash = "20a8765c2101074249bd9d2512cc0e218793e83298f9454c88c8a2e06688dd74"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/villager/experience_bar_result.png"
+hash = "88224345606e8e1842bc465f33443e04b5dfd2d668aa102b2965ad1efa4d82cf"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/villager/out_of_stock.png"
+hash = "c7ad46878e2678fd7e1168f0d7d078b42e4e98dd3e178406be2bee62c93263dd"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/villager/scroller.png"
+hash = "7e4de68c69473b2a96386ab9f1c9c5f2ba817b389bd6aa70ec4adca9d32d36ac"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/villager/scroller_disabled.png"
+hash = "be1f7af705619742cf7eef5c13e993e2bc6d399f92bbde179055da743cd757d0"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/villager/trade_arrow.png"
+hash = "81d7c3222aff5626e04e338241cdf18cd58262fd99ed552ff630ab9c1bb496f0"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/container/villager/trade_arrow_out_of_stock.png"
+hash = "baac9977bcc5f94307c9b996a906ebc60194fdd1312b26250346a052a09e5176"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
+hash = "0c481813b0ea7cd3f558f676784cd46b5aced3a71fd9272c35c8d04b96cbf0e4"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/hud/hotbar_attack_indicator_background.png"
+hash = "fc9a3e65052c91cc07ed23011a83938a20bc63695d2651d08133b30577458dbe"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/hud/hotbar_attack_indicator_progress.png"
+hash = "ba5ec978fd6659f668fe1dd7e7754f99a321a1a87ab2f0e0abed939eafa2f9d7"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
+hash = "70d088572abe497c44fe8bd38f7ee13009f1973c94ca7119752f1ffecfe26d45"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
+hash = "276d9e9b6655df040c2542c4b1cb9526162fdf95e722d2083b77b7780caf248b"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
+hash = "8961a20fac102b3066e8aeb0fe0c9f5bfb972c0004a86edd79b45826c33fea75"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/popup/background.png"
+hash = "71c6438e34451204016b87bc1adaf6418bb8b0dbbd290d06c36e1b2026fca649"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/popup/background.png.mcmeta"
+hash = "b552ee01037bf7870b689fb27fbb3d6edc1386006bad7ff318ea20c7be376762"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/button.png"
+hash = "dc83c3b7b749591e562f2e36c611de303db3853d6e939413534537d3f26eaba1"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+hash = "3be2009a3d2bbab0ac7d50e4fb9aef287578081417e25b4eaae52f7e9c07f3ff"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/crafting_overlay.png"
+hash = "ac12f3661aa87ee835cc08efa4414356c45787ed3e3fbfd0f478af368dde0b3a"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/crafting_overlay_disabled.png"
+hash = "5e6397ed27d8c94f3f0adb010104d1b06c8016dbc95df145e1d0fb6248410d99"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/crafting_overlay_disabled_highlighted.png"
+hash = "11f703fd48504d8805d994616d4fb8ce568b54aeed5557e55b6d296cf1fb1774"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/crafting_overlay_highlighted.png"
+hash = "3ac8e8c08037d59ac11b3cfd7e0f8c8215e4f0dbf1483505b3139c4eae4b3791"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/filter_disabled.png"
+hash = "5bf785717dd7a94c6a10f1eb7cd6ec210655eab845db391519cf4e52809fdd47"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/filter_disabled_highlighted.png"
+hash = "63e658c324642c2c3c9fa70db85b02f85950de25ce6181a7e829b96010954dc4"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/filter_enabled.png"
+hash = "121855ec93f20efbcab0f04a2ae9d348ad570701de3ef899f68b8ee1a72101d3"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/filter_enabled_highlighted.png"
+hash = "7f7df0cca1d37f13c160a66360a6ace07dcf54f7a64eb5a1b9a9bc897af65cf4"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/furnace_filter_disabled.png"
+hash = "9028ad8d5ab7120226d5f41e3c417531c3d1bf05bc740cd8cfa25f53a0838757"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/furnace_filter_disabled_highlighted.png"
+hash = "77878c324cd040e1c97b217c30f02d0e856b7ada291c6d762732827632cdfc19"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/furnace_filter_enabled.png"
+hash = "af7dca4400e226d0a4cf7f3de64a9ea88be8c90a599e0bc34862ddadddce00f1"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/furnace_filter_enabled_highlighted.png"
+hash = "4de7da6774556cde5c57da18db6388e00430a6fb9756fdf14208cbbc0a5eb131"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/furnace_overlay.png"
+hash = "5bec8183c9c95a803878dc4ef5321ac48356a80ddbed2d98761fabb90246428d"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/furnace_overlay_disabled.png"
+hash = "f4234ee4b99eb59ee17848c387c4585550b60cb719acb89accbc7c861774e6e5"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/furnace_overlay_disabled_highlighted.png"
+hash = "8182ae639cbf81927ca78965291de191940f354b5d7d0e48be1d15e48f3b13df"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/furnace_overlay_highlighted.png"
+hash = "fd8fd9f5b0be62985e71148121a3f786c483321835313e715010b66c1268f964"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/overlay_recipe.png"
+hash = "8a37239a8a981f52889172d12ee22cee6c093dcb37f752a23ca1604f0fe011b5"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/overlay_recipe.png.mcmeta"
+hash = "1d490688369c1bd7b79fcd6b38e9f8af3ac5d88abe226624c0e27569030c52f5"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/page_backward.png"
+hash = "ceed800615f6e33155505ab8e80d450e37a83118d3c005fa2165d706b46ec41c"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/page_backward_highlighted.png"
+hash = "df77357fa2a65eaf9ebc176a182472f2bc78d7863a099e298096d4428aa6c5b5"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/page_forward.png"
+hash = "fba84c19a789b32cd359028879748a3d3a84ed329cd8cdc902d3d631ace86cfb"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/page_forward_highlighted.png"
+hash = "1b2a38eff968dea8000676f52ef188d110d9d0c026fdb69915f54e944730c45e"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/slot_craftable.png"
+hash = "5babc47d4b10d7b6205f8e8773de628fab704c682b771095f6320fa230d5c8bf"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/slot_many_craftable.png"
+hash = "4380ef81a33b9371347b1f243e891bdd2df97b3ce3b625060731f6070012560c"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/slot_many_uncraftable.png"
+hash = "fe914dbe016b7665c628df7e46ad00202c2c24055d266da8e1a949d48b529dec"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/slot_uncraftable.png"
+hash = "fe914dbe016b7665c628df7e46ad00202c2c24055d266da8e1a949d48b529dec"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/tab.png"
+hash = "54dc53653266654149c8e77321dedc877dfe315c424353f004ee5c162b96d3dc"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/recipe_book/tab_selected.png"
+hash = "417949f380de21a281a00300cbbe8e3244ccda271b860e9fd2ce063a44eca7c7"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/button.png"
+hash = "3ac7d21a2aecad176a36317d01a72c13d9a87db31e53bb13b1fc2fc3faf5733c"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/button.png.mcmeta"
+hash = "c8f6fe62c01c357a814223d4ab6a368e5122c195fa2671e585fa24988557a505"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+hash = "b1cf0688301d333ef5ae5e5dbcccf62499cd17aa6f9b9fe2e218dcaf991bc4cf"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/button_disabled.png.mcmeta"
+hash = "d7dd31a632fe41be64e07ef0676b726e50f0af053e638742ec1f6f9550a1b7e5"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+hash = "abd374c75064b83e6fbb908f8465f1a5c2e7e12ce3407c7cf1e26ba90117999e"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png.mcmeta"
+hash = "c8f6fe62c01c357a814223d4ab6a368e5122c195fa2671e585fa24988557a505"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/slider.png"
+hash = "565d7abc5c5cb6f23971c2e3d4122958a7aa5ad04a6686f8896a62f30e55fb0e"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/slider.png.mcmeta"
+hash = "d7dd31a632fe41be64e07ef0676b726e50f0af053e638742ec1f6f9550a1b7e5"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/slider_handle.png"
+hash = "5137062efb96e7bc7dd970fb8daa9874ca58a1d3cb6ba7d3f5250296fdcee21e"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/slider_handle.png.mcmeta"
+hash = "e455ece745d4f9d34e477a20dc60f0899e769e7c4fbdf0c2b7a9ccfab615201c"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/slider_handle_highlighted.png"
+hash = "da061f76e7695401cbf0fc9dd7a4cf603760fa54a4256fcfe0d16d078f87387c"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/slider_handle_highlighted.png.mcmeta"
+hash = "e455ece745d4f9d34e477a20dc60f0899e769e7c4fbdf0c2b7a9ccfab615201c"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/slider_highlighted.png"
+hash = "6c2e94d2590c6a74a7d40859be8baa182af817c0eef76d6e98c6d6ea1429408f"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/slider_highlighted.png.mcmeta"
+hash = "d7dd31a632fe41be64e07ef0676b726e50f0af053e638742ec1f6f9550a1b7e5"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/tab.png"
+hash = "71f96de62794a386e19b46c8dbababdce38f9515d87d7d8094b88a40de9b74eb"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/tab.png.mcmeta"
+hash = "bb6923221c7e93cd8fc9cbabe4bdd77d581274904a89108bd985d4d6d2ac2c8b"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/tab_highlighted.png"
+hash = "df80f52869092bd051f69530c2c18c92b7b2565d12c87658453f895eff33f2c9"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/tab_highlighted.png.mcmeta"
+hash = "bb6923221c7e93cd8fc9cbabe4bdd77d581274904a89108bd985d4d6d2ac2c8b"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/tab_selected.png"
+hash = "0baa59030370e443abcdc838e0a254defc38a4afa07be0a620005a6d2da09cf9"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/tab_selected.png.mcmeta"
+hash = "bb6923221c7e93cd8fc9cbabe4bdd77d581274904a89108bd985d4d6d2ac2c8b"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/tab_selected_highlighted.png"
+hash = "89bf5d611195b2631155a84349431b5768098bd003b0356309d3e25b5d13ebc9"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/sprites/widget/tab_selected_highlighted.png.mcmeta"
+hash = "bb6923221c7e93cd8fc9cbabe4bdd77d581274904a89108bd985d4d6d2ac2c8b"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/title/edition.png"
+hash = "08c3d5a6c38aaee7c48c6a3e63a59c4c8b760f198e9ac66f5f28656fb573c1af"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "c2e1a66cda18e2ea33fd24fe77942e19fbbd6f363aa2ed80462d52b9b15e08c9"
+
+[[files]]
+file = "resourcepacks/aegir-assets/assets/minecraft/textures/gui/title/mojangstudios.png"
+hash = "7645f95a76a0a2b6aa50145e4ac9648a5bb3bec79e077f927ccdde867845ed65"
+
+[[files]]
+file = "resourcepacks/aegir-assets/pack.mcmeta"
+hash = "8daad4f4aef3884226e85b47341368d51fd4fe582477d0a0afcf9212af9868b8"
+
+[[files]]
+file = "resourcepacks/aegir-assets/pack.png"
+hash = "f9559ba6e591797136876406d012ee4cc7d29115defd34fcee6997b10fabbd89"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

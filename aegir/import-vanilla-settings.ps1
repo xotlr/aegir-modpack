@@ -38,6 +38,8 @@ try {
             if ([int]::TryParse([string]$opts[$cap[0]], [ref]$v) -and $v -gt $cap[1]) { $opts[$cap[0]] = [string]$cap[1] }
         }
         $opts['onboardAccessibility'] = 'false'
+        # Black instead of red behind the AEGIR loading logo (aegir-assets).
+        $opts['darkMojangStudiosBackground'] = 'true'
         $lines = foreach ($e in $opts.GetEnumerator()) { "$($e.Key):$($e.Value)" }
         [IO.File]::WriteAllLines($dst, [string[]]$lines, (New-Object Text.UTF8Encoding $false))
     }

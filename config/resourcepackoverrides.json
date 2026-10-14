@@ -1,0 +1,10 @@
+{
+  "schema_version": "2",
+  "default_packs": ["vanilla", "mod_resources", "file/aegir-assets"],
+  "pack_overrides": {
+    "file/aegir-assets": {
+      "title": "\"AEGIR\"",
+      "description": "\"Norse menus and inventories\""
+    }
+  }
+}
