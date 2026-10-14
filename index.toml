@@ -1,6 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "aegir/import-vanilla-settings.ps1"
+hash = "aac37c11cfed70e16cc17199707a52e138d981cafd4355fe03fb7ff07c364409"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "333287dda5e04c98a62cde28b362d760f15cf9138797d1035808be3b076a6e51"
+preserve = true
+
+[[files]]
 file = "mods/alexs-mobs-1.21.1.pw.toml"
 hash = "fb53bc6c0d543cd7e88a5faba1e3235dca6c556e0cf8c1a534bbdec581c3c2f8"
 metafile = true
@@ -567,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
-hash = "0f4f506b1171a3a7d7b73150721075f5b1bc703c043fa539bcdd72c93e665b94"
+hash = "05cac280ad411f249f192ab5cfa3ae3df7356c0293863e7660ad7db4497381e1"
 metafile = true
 
 [[files]]
@@ -642,10 +651,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "3f9e51bfceabca41c537e58b8767bdb4273fdafe9f08bc472ebc255554617ad2"
+hash = "e97cb865d7a8c8310905d9140899fa55ea23c3fff2e23a17255ce2c162322ad7"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ac287f392613eddfa285620dcecb3fea25ee6232a201009cde5c5511b6a39fb9"
+hash = "3a8e91aecdb602039ba1f7445bbf6b64cc5a46344339a3ffaf3b2e3eb2f5bcbc"
 metafile = true
