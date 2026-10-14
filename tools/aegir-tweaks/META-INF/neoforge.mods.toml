@@ -4,9 +4,9 @@ license="All Rights Reserved"
 
 [[mods]]
     modId="aegir_tweaks"
-    version="1.4.0"
+    version="1.6.0"
     displayName="AEGIR Tweaks"
-    description="Pack-wide gameplay tweaks for AEGIR (datapack): Renourished Delight gamerules set once per world (3 starting hearts, food raises max health) and the spec's four food tiers with fading bonuses; salmon in rivers carved through non-river biomes; the Default world type is a 4096-block looping (toroidal) world via Exotic Worlds."
+    description="Pack-wide gameplay tweaks for AEGIR (datapack): Renourished Delight gamerules set once per world (3 starting hearts, food raises max health) and the spec's four food tiers with fading bonuses; YUNG ocean monuments lowered to match Tectonic's deeper oceans; salmon in rivers carved through non-river biomes; the Default world type is a 8192-block looping (toroidal) world via Exotic Worlds, pre-generated with Chunky from the first load."
 
 [[dependencies.aegir_tweaks]]
     modId="minecraft"

@@ -5,6 +5,10 @@ file = "aegir/import-vanilla-settings.ps1"
 hash = "a826e5aec0e518250887802ba0f37d0f69afc7460394c8b7981d9b11acf47f96"
 
 [[files]]
+file = "config/chunky/config.json"
+hash = "64f39e6ab3b260fc4b4f85b732ff33866126d3142a74ba2b8db709461cfe2f1e"
+
+[[files]]
 file = "config/coldsweat/client.toml"
 hash = "ec647e2bec47c16213a015b7ea0bb1664073237ad895395b8a800fd257191ba2"
 preserve = true
@@ -54,10 +58,11 @@ preserve = true
 [[files]]
 file = "config/mca.json"
 hash = "c2ebee7a893b948b92d4f8bb0d8e764e43967c7124e50611fe9937ba96abab75"
+preserve = true
 
 [[files]]
 file = "config/particular-common.toml"
-hash = "a5a50833b2606984b062e32a8e6b3de6b6fb69d482d16b2c2be00eea8cb178a2"
+hash = "ac4b1154061ec8f63d18de34705b95bd90ea6c9ab664e5a64743207dd27586b8"
 
 [[files]]
 file = "config/renourisheddelight/client.json5"
@@ -69,12 +74,16 @@ file = "config/snowrealmagic-common.yaml"
 hash = "f38fefea6563c307cefcca451961f677889f495e774c9f59a78e062ab0111241"
 
 [[files]]
+file = "config/tectonic.json"
+hash = "3710400644529676f70cfd5eda382a443708a1e281e8360b3c183666a6d98cd9"
+
+[[files]]
 file = "config/terralith.json"
 hash = "cb8a5d8613fdcc2316654d573c1c06220b5db35802c8837f2dd4a11f1767bd4a"
 
 [[files]]
-file = "mods/aegir-tweaks-1.4.0.jar"
-hash = "454462c57ad2b138c9094f4500fb5e4bd67fb0459c91700da98b4ac65d26f336"
+file = "mods/aegir-tweaks-1.6.0.jar"
+hash = "7340e955515e1a6d815c43ebc797dcc35f3c6d8d72fc3511616feb104849b5f7"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -324,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "426238488c9ffd843f661f8bc74aa8e585fa6b4d342c43c4ba4cb8451298b725"
+metafile = true
+
+[[files]]
+file = "mods/etched.pw.toml"
+hash = "e542594c75eddafc1b72baebc82aa65ce2d8d791bc0ace17c731760bf30360b4"
 metafile = true
 
 [[files]]
@@ -754,6 +768,61 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "3a8e91aecdb602039ba1f7445bbf6b64cc5a46344339a3ffaf3b2e3eb2f5bcbc"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "dde31f05114c72cb2f58e522417487730b872e456f77fdd02c032c9235791f6c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "c2cb28859e7bcc0eb4ce59c5792f90fa5f8ab8865f5867ba26a5a345ec60b498"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "1496ffa30020676979e65921b91e583a2fdc77e50001e2ed55f99edf1a0ae880"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "c2dc09f214e7c1cecca6cf434776c2616f6d36bd27c06a6b39f985da0453a4f5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "e839608ebc974e9e7819adc7bf29132ea86fc41b46af540fe0fa39b2007b2439"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "50c1731148d91a4ef05cfc47f759ca8fb3dad254e15ce4ecc5732d6fbfa68637"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "a2d7176026abf4a68a663b375811a603c508f36062cc7fb5b45416e1462682a8"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "03084966c05070b5c4b17cd89234f3c0d813940a2d76b405a6699deac10a0ab8"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "9854b699d5a067c46ac99b1dedeeb529bff3fc18dd079e29b438c4cbf9725f68"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "c5e5f5aed37edd8073ec736e179b6159530ff497f4fe4c4dfaf954c810910433"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "cfb7ce4c2b00cedd2e61f7d345b824d6bcc1471021668d2319ee2e4079108639"
 metafile = true
 
 [[files]]

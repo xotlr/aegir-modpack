@@ -6,4 +6,6 @@ gamerule renourisheddelight:doStarvation false
 gamerule renourisheddelight:doSleepFoodDrain false
 gamerule renourisheddelight:doNourishment false
 gamerule renourisheddelight:doNutritionDecay false
+# Separate function: if Chunky's commands ever fail to parse, only pregen breaks, not the gamerules.
+function aegir:pregen
 scoreboard players set #world_init aegir 1
