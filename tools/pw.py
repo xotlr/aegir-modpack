@@ -5,12 +5,13 @@
   python tools/pw.py reindex                                      rehash every file into index.toml + pack.toml
 
 reindex tracks every file under the repo except pack.toml, index.toml, .git, docs/ and tools/.
-Files under config/ are marked preserve: installed only when missing, never over a player's edits.
+Files in PRESERVE are installed only when missing, never over a player's edits; other configs are enforced.
 """
 import hashlib, json, pathlib, re, sys, urllib.request
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SKIP_DIRS = {".git", "docs", "tools"}
+PRESERVE = {"config/DistantHorizons.toml"}
 SKIP_FILES = {"pack.toml", "index.toml", ".gitattributes", ".gitignore", ".packwizignore", "README.md"}
 
 
@@ -43,7 +44,7 @@ def reindex():
         out += ["[[files]]", f'file = "{rel}"', f'hash = "{sha256(p)}"']
         if rel.endswith(".pw.toml"):
             out.append("metafile = true")
-        if rel.startswith("config/"):
+        if rel in PRESERVE:
             out.append("preserve = true")
         out.append("")
     (ROOT / "index.toml").write_text("\n".join(out), encoding="utf-8", newline="\n")

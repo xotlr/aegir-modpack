@@ -2,12 +2,16 @@ hash-format = "sha256"
 
 [[files]]
 file = "aegir/import-vanilla-settings.ps1"
-hash = "aac37c11cfed70e16cc17199707a52e138d981cafd4355fe03fb7ff07c364409"
+hash = "a826e5aec0e518250887802ba0f37d0f69afc7460394c8b7981d9b11acf47f96"
 
 [[files]]
 file = "config/DistantHorizons.toml"
 hash = "333287dda5e04c98a62cde28b362d760f15cf9138797d1035808be3b076a6e51"
 preserve = true
+
+[[files]]
+file = "config/dynamicwaters-common.toml"
+hash = "4f4a1600f839c78eadab7e8e02b1163451ac4cab2f93e4d348e9242531e1beb2"
 
 [[files]]
 file = "mods/alexs-mobs-1.21.1.pw.toml"

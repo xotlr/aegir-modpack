@@ -1,12 +1,14 @@
 # Runs from the Prism pre-launch command after packwiz. Once per instance, copies the player's
 # settings from the normal launcher (%APPDATA%\.minecraft) into this instance: options.txt
 # (keybinds, sensitivity, FOV, sound, GUI scale, language, ...) and servers.dat (server list).
-# Never blocks the launch: any failure just skips the import.
+# Never blocks the launch: any failure just skips the import (and is logged to aegir\import.log).
 try {
     $mc = if ($env:INST_MC_DIR) { $env:INST_MC_DIR } else { (Get-Location).Path }
+    $log = Join-Path $mc 'aegir\import.log'
     $marker = Join-Path $mc 'aegir\.vanilla-imported'
     if (Test-Path $marker) { exit 0 }
-    $vanilla = Join-Path $env:APPDATA '.minecraft'
+    $vanilla = Join-Path ([Environment]::GetFolderPath('ApplicationData')) '.minecraft'
+    "$(Get-Date -Format s) importing from $vanilla into $mc" | Out-File -Append -Encoding utf8 $log
 
     $src = Join-Path $vanilla 'options.txt'
     $dst = Join-Path $mc 'options.txt'
@@ -46,7 +48,9 @@ try {
     }
 
     New-Item -ItemType File -Force $marker | Out-Null
+    "$(Get-Date -Format s) done" | Out-File -Append -Encoding utf8 $log
 } catch {
     Write-Host "AEGIR: skipped importing vanilla settings: $_"
+    try { "$(Get-Date -Format s) failed: $_" | Out-File -Append -Encoding utf8 $log } catch {}
 }
 exit 0
