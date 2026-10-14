@@ -1,0 +1,13 @@
+name = "Exotic Worlds(Toroidal World)"
+filename = "exotic_worlds-1.0.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CdjG7l5z/versions/HxhThaC4/exotic_worlds-1.0.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "ca7596216b623c8293115a865cdb140dec3de161aaed0c8e760e93626896efb324dfece8e3809623556562cfb305fe54b5b10b0fd3ae6c5862cf6c0b834e8b9c"
+
+[update]
+[update.modrinth]
+mod-id = "CdjG7l5z"
+version = "HxhThaC4"

@@ -31,8 +31,8 @@ file = "config/terralith.json"
 hash = "cb8a5d8613fdcc2316654d573c1c06220b5db35802c8837f2dd4a11f1767bd4a"
 
 [[files]]
-file = "mods/aegir-tweaks-1.1.0.jar"
-hash = "874497e5e598f27dc9d78b299a12ef7e899ffd691bd279d4178e308773fdd2cc"
+file = "mods/aegir-tweaks-1.2.0.jar"
+hash = "532b84cf54265c1574d07ef86e3000319b76ca9a7c39d633285b9cb40a706617"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -92,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "6b5ca6ccbffb900ed868de62c9c13a09b38ffed36b00e51ceaab5468b6941041"
 metafile = true
 
 [[files]]
@@ -282,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "a245469cf91e7f3c8aec3b0f5ad3d79b1846ac0696543f892b426faea5f91cab"
+metafile = true
+
+[[files]]
+file = "mods/exotic-worlds.pw.toml"
+hash = "7f2f4d482db8736b0464c1de0bcd3d55567229ae217445580f969f1d5dea8838"
 metafile = true
 
 [[files]]
@@ -697,11 +707,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "3a8e91aecdb602039ba1f7445bbf6b64cc5a46344339a3ffaf3b2e3eb2f5bcbc"
-metafile = true
-
-[[files]]
-file = "mods/zfastnoise.pw.toml"
-hash = "ef15c0a0a5afcf7b11376da33b893a87b8522bef65bdb36fa17d5d6eea810e9f"
 metafile = true
 
 [[files]]
