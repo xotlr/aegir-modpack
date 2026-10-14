@@ -53,7 +53,7 @@ preserve = true
 
 [[files]]
 file = "config/mca.json"
-hash = "66660dfda1861eb18e7da2ef16b238a0f5bd665dc300a95c0de4d0027ca15b8f"
+hash = "c2ebee7a893b948b92d4f8bb0d8e764e43967c7124e50611fe9937ba96abab75"
 
 [[files]]
 file = "config/particular-common.toml"
@@ -629,6 +629,11 @@ metafile = true
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
 hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "8eae737eb20a0488e9b57b6a59f0681d142732bcb22fc896ad4e5ff924ec5683"
 metafile = true
 
 [[files]]
