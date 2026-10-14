@@ -211,6 +211,8 @@ Scanned **before** first run. Result: **nothing suspicious**.
 
 | `ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar` | matches Modrinth `resource-pack-overrides` (Fuzs, MPL-2.0) | 0/64 | clean / clean / - / 0 hits | No network or process code. Client only. |
 
+| `aegir_core-0.1.0.jar` | our own code (local repo `aegir-core`, commit d8e1509) | - | clean / clean / - / - | Only network-free game logic; talks to FTB Teams/Chunks, Project MMO and GraveStone in-process. |
+
 Rejected: **VinURL** (YouTube discs). It downloads and runs yt-dlp, Deno and FFmpeg executables at runtime on clients and server, which this report's rules treat as a flag, and ripping YouTube audio breaks YouTube's terms.
 
 ## Still to do

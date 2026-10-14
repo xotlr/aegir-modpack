@@ -90,6 +90,10 @@ file = "mods/aegir-tweaks-1.6.1.jar"
 hash = "828a520cd3b257b83c051cda7a59cbba5e4aaa8c3a7df42b680cae143fb04d9c"
 
 [[files]]
+file = "mods/aegir_core-0.1.0.jar"
+hash = "ef7190c4298f432b3aaac5e0b58c53f733a7e77407de5efc74bf10d6443e88c9"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "713a9b7e8963adfefb8e48aecf0598fbd1cc27e14ca64256757ab4d9e25102a8"
 metafile = true
