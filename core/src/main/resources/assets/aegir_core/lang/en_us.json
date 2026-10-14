@@ -1,0 +1,27 @@
+{
+  "aegir_core.check.result": "%1$s rolls for %2$s (DC %3$s): %4$s %5$s = %6$s, %7$s",
+  "aegir_core.check.outcome.2": "natural 20!",
+  "aegir_core.check.outcome.1": "success",
+  "aegir_core.check.outcome.0": "failure",
+  "aegir_core.check.outcome.-1": "natural 1!",
+
+  "aegir_core.team.title": "Travel to a crewmate",
+  "aegir_core.team.no_team": "You are not in a team. Make one with /ftbteams party create <name>.",
+  "aegir_core.team.nobody_online": "None of your crew is online.",
+  "aegir_core.team.gone": "They are no longer here.",
+  "aegir_core.team.cooldown": "The winds need %s more seconds.",
+  "aegir_core.team.claimed": "%s stands on another team's land. You cannot travel there.",
+  "aegir_core.team.arrived": "You arrive beside %s.",
+
+  "aegir_core.death.toast": "%s fell near %s",
+  "aegir_core.death.second_wind": "Second wind",
+  "aegir_core.death.no_double_loss": "So soon again. The world forgives this one.",
+
+  "aegir_core.book.title": "Book of the Fallen",
+  "aegir_core.book.entry": "Day %s: %s\nnear %s",
+  "aegir_core.book.empty": "No one has fallen yet.",
+
+  "aegir_core.voice.1": "[Aegir's log, line for the 1st death: Ronald writes this]",
+  "aegir_core.voice.5": "[Aegir's log, line for the 5th death: Ronald writes this]",
+  "aegir_core.voice.10": "[Aegir's log, line for the 10th death: Ronald writes this]"
+}

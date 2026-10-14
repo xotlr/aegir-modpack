@@ -5,13 +5,13 @@
   python tools/pw.py add <modrinth slug> <both|client|server>       add a Modrinth mod (latest NeoForge 1.21.1 build)
   python tools/pw.py reindex                                      rehash every file into index.toml + pack.toml
 
-reindex tracks every file under the repo except pack.toml, index.toml, .git, docs/ and tools/.
+reindex tracks every file under the repo except pack.toml, index.toml, .git, docs/, tools/ and core/ (AEGIR Core source).
 Files in PRESERVE are installed only when missing, never over a player's edits; other configs are enforced.
 """
 import hashlib, json, pathlib, re, sys, urllib.request
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-SKIP_DIRS = {".git", "docs", "tools"}
+SKIP_DIRS = {".git", "docs", "tools", "core"}
 PRESERVE = {"config/DistantHorizons.toml", "config/coldsweat/client.toml", "config/iris.properties", "config/renourisheddelight/client.json5", "config/mca.json"}
 SKIP_FILES = {"pack.toml", "index.toml", ".gitattributes", ".gitignore", ".packwizignore", "README.md"}
 

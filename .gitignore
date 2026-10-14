@@ -7,3 +7,11 @@
 .aegir-secrets/
 *.token
 .env
+
+# AEGIR Core build output and local copies of dependency jars
+core/libs/
+core/build/
+core/.gradle/
+core/run/
+core/runs/
+!core/gradle/wrapper/gradle-wrapper.jar
