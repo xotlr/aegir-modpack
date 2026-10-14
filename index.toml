@@ -15,7 +15,7 @@ hash = "edb7d60c0d5f1aa29399a1e4d5e0cca9f0a73e3d2503ef33ee4aaf4795340489"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "ba818e92c03a14665d63e631375180efad48800eb330b0debaa05b02d04dfb89"
+hash = "ded350cec0cf605015c052bb0030e6fcefb4411e2f46a190cf9a64ad9278c254"
 preserve = true
 
 [[files]]
@@ -31,8 +31,8 @@ file = "config/terralith.json"
 hash = "cb8a5d8613fdcc2316654d573c1c06220b5db35802c8837f2dd4a11f1767bd4a"
 
 [[files]]
-file = "mods/aegir-tweaks-1.2.0.jar"
-hash = "532b84cf54265c1574d07ef86e3000319b76ca9a7c39d633285b9cb40a706617"
+file = "mods/aegir-tweaks-1.3.0.jar"
+hash = "2d9c47f150593fb9edf4b6c28d9774a72802c7cde975dff61776a22abfbf3f4d"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
