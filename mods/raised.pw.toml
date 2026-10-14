@@ -1,0 +1,13 @@
+name = "Raised"
+filename = "raised-neoforge-1.21.1-6.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/utAvUolB/raised-neoforge-1.21.1-6.0.2.jar"
+hash-format = "sha512"
+hash = "9fd63b902a2da3647c0c7b7a795bc633786dbac830cb1de7f9aeb892b64e23eb3b1b7608dd190585992221a88d69a7ff49c0df6f0b50b2896894f4b01ad09882"
+
+[update]
+[update.modrinth]
+mod-id = "nCQRBEiR"
+version = "utAvUolB"

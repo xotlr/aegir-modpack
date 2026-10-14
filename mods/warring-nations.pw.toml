@@ -1,0 +1,13 @@
+name = "Warring Nations"
+filename = "warring-nations-neoforge-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "460f5f703538ede4fa26db21f8717626922442d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8800476
+project-id = 1609474

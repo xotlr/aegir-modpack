@@ -1,0 +1,13 @@
+name = "AEGIR"
+author = "Ronald"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1c31855054c32fa903924412a9fceb0df84ad641406df90293f9793ce8e15ef1"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.259"

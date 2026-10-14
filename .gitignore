@@ -1,0 +1,7 @@
+# never commit jars or secrets
+*.jar
+*.zip
+!vanillatweaks*.zip
+.aegir-secrets/
+*.token
+.env

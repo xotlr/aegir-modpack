@@ -1,0 +1,13 @@
+name = "eZWeight"
+filename = "eZWeight-neoforge-1.21.1-1.8.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H3lTimPU/versions/hUDgqdds/eZWeight-neoforge-1.21.1-1.8.4.jar"
+hash-format = "sha512"
+hash = "eef8babe36b539cb6de56990520d0fd51150d494687a61918e6968c9cb037535df24304122b577dbf0728e3a40b0192477d26832e20ebcb86db52704ea09adc0"
+
+[update]
+[update.modrinth]
+mod-id = "H3lTimPU"
+version = "hUDgqdds"

@@ -1,0 +1,13 @@
+name = "Salt's Animal Farm"
+filename = "salts_animal_farm-1.21.1-NeoForge-0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X2m1QNPV/versions/mgoxBwQq/salts_animal_farm-1.21.1-NeoForge-0.2.jar"
+hash-format = "sha512"
+hash = "5a9fded05f351963844138d4067bff698edc5fb95c91bd295bb5a84e7ca7af108a8e6926111acc283dd1e4e1c59fc4cda114480f30a00b8386c1c92daa55684d"
+
+[update]
+[update.modrinth]
+mod-id = "X2m1QNPV"
+version = "mgoxBwQq"

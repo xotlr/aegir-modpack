@@ -1,0 +1,13 @@
+name = "Nuit"
+filename = "nuit-neoforge-1.0.0-beta.6+mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YBz7DOs8/versions/blbu29BJ/nuit-neoforge-1.0.0-beta.6%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "69a4ab11e8c122323bf9051ec4f04b9e5884cc93ac8bea5cae71dddc4b8c2df880d1f9f3fc178af9fbf04663244beba21a7db37b6290748d99a3d4f192b27d37"
+
+[update]
+[update.modrinth]
+mod-id = "YBz7DOs8"
+version = "blbu29BJ"

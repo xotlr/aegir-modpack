@@ -1,0 +1,13 @@
+name = "Sablewaves"
+filename = "sablewaves-2.25.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "689bec8a843de2730a39ce2cbee8f049e324f16e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8995497
+project-id = 1634962

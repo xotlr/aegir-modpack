@@ -1,0 +1,13 @@
+name = "Max Health Fix"
+filename = "max-health-fix-1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1V8GQzdO/versions/JbJBrydD/max-health-fix-1.0.jar"
+hash-format = "sha512"
+hash = "890233a4bc71a07735bcf5bb6efd9247f7d6a4ee22cdd1ec044935d6afc14ba32a7ba6537f353c55f5b4b4c26dc86b679077423477527f5df2d4c50e34a38cda"
+
+[update]
+[update.modrinth]
+mod-id = "1V8GQzdO"
+version = "JbJBrydD"

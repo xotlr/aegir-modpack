@@ -1,0 +1,13 @@
+name = "Roaster's Delight"
+filename = "roasters_delight-1.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fde5d53c8888414f278a54b2a761437b161a84f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9045624
+project-id = 1722527
