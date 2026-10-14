@@ -629,6 +629,11 @@ hash = "09bbef89f8f99a1d499e60f4973cca3c46ccb0bf54eeb89723e7af5c739310eb"
 metafile = true
 
 [[files]]
+file = "mods/wakes-reforged.pw.toml"
+hash = "ad3c58ce67c1063c917a3764281ac4ca1b6055b0e065ffc1b21d95286ebf2633"
+metafile = true
+
+[[files]]
 file = "mods/warring-nations.pw.toml"
 hash = "d3d53a2317dcf2928d5b2f63aaf8f7638a4454a3a9799c050b3455d539629fe1"
 metafile = true
